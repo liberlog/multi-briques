@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="248"
+   height="48"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="1Joueurs.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/matthieu/Bureau/Matthieu/Programmation/Lazarus Delphi/MULTIBriques/Images/Menus/FRANCAIS/ActifBas.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="726"
+     inkscape:window-width="770"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="2.1935484"
+     inkscape:cx="37.552878"
+     inkscape:cy="24"
+     inkscape:window-x="784"
+     inkscape:window-y="197"
+     inkscape:current-layer="svg2"
+     inkscape:window-maximized="0" />
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 24 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="248 : 24 : 1"
+       inkscape:persp3d-origin="124 : 16 : 1"
+       id="perspective18" />
+    <linearGradient
+       id="linearGradient3155">
+      <stop
+         id="stop3157"
+         style="stop-color:#750000;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3160"
+         style="stop-color:#ba0000;stop-opacity:0.7591241"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3157">
+      <stop
+         id="stop3159"
+         style="stop-color:#e90000;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3161"
+         style="stop-color:#ef8000;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="457.21869"
+       y1="296.57538"
+       x2="16.530064"
+       y2="290.86121"
+       id="linearGradient3163"
+       xlink:href="#linearGradient3157"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.69047499,0,0,0.69047498,-29.075317,-158.10105)"
+       spreadMethod="repeat" />
+    <linearGradient
+       x1="-73.549713"
+       y1="42.563808"
+       x2="212.59167"
+       y2="41.4174"
+       id="linearGradient3162"
+       xlink:href="#linearGradient3155"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="repeat"
+       gradientTransform="matrix(0.88634759,0,0,0.88634759,-206.09184,6.0211293)" />
+  </defs>
+  <g
+     transform="translate(-2.6750026,-28.191386)"
+     id="layer1"
+     style="opacity:1">
+    <text
+       x="-68.552223"
+       y="55.604446"
+       transform="scale(0.86546056,1.1554541)"
+       id="text2383"
+       xml:space="preserve"
+       style="font-size:38.66659546px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient3163);fill-opacity:1;stroke:url(#linearGradient3162);stroke-width:1.64683378;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0.77900001;font-family:Rehan;-inkscape-font-specification:Bitstream Vera Sans"
+       sodipodi:linespacing="100%"
+       inkscape:export-xdpi="19"
+       inkscape:export-ydpi="19"><tspan
+         x="8.4076204"
+         y="55.604446"
+         id="tspan2385"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:url(#linearGradient3163);fill-opacity:1;stroke:url(#linearGradient3162);stroke-width:1.64683378;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0.77900001;font-family:Arial Black;-inkscape-font-specification:Arial Black Bold">1 joueur</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,3 @@
+[Info]               OpenGL:              Try to init Andorra OpenGL Plugin.
+[Info]               OpenGL:              Rendercontext successfully created.
+[Info]               OpenGL:              Finalize Andorra OpenGL Plugin

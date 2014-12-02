@@ -1,0 +1,51 @@
+[Buttons]
+Copy=Copy
+[Checkboxes]
+Structure=Structure
+Traduce=Traduce to
+Backup=Backup
+Sub-directories=Sub-directories
+[Menu]
+Language=Language
+Donate=Donate
+Help=Help
+About=About..
+[F_About]
+Comments=Copy of Files with Images Traducing
+OK=OK
+[F_Licence]
+Accept=Accept
+Refuse=Refuse
+License=License
+Language=Language
+[Copy]
+Traduced to=traduced to
+Copied to=copied to
+COPYFILES_ERROR_DIRECTORY_CREATE=Error creating directory 
+COPYFILES_CONFIRM=Confirm Box
+COPYFILES_CONFIRM_FILE_DELETE=Do you really want to erase the file 
+COPYFILES_ERROR_FILE_DELETE=Can't erase file 
+COPYFILES_ERROR_CANT_APPEND=Can't append to file 
+COPYFILES_ERROR_CANT_CREATE=Can't create file 
+COPYFILES_ERROR_CANT_CHANGE_DATE=Can't set date to file 
+COPYFILES_ERROR_CANT_READ=Reading file error 
+COPYFILES_ERROR_PARTIAL_COPY_SEEK=Error on partial copy of file 
+COPYFILES_ERROR_PARTIAL_COPY=Partial copy of file 
+COPYFILES_ERROR_CANT_COPY=Can't copy file 
+COPYFILES_ERROR_IS_FILE=Can't copy directory to file 
+[ImagesCombo]
+Line0=JPEG Images ( *.jpg )
+Line1=GIF Images ( *.gif )
+Line2=Bitmap Images ( *.bmp )
+Line3=Targa Images ( *.tga )
+Line4=Autodesk Images ( *.pic )
+Line5=SGI Images ( *.sgi )
+Line6=PCX Images ( *.pcx )
+Line7=PCD Images ( *.pcd )
+Line8=Portable MAP Images ( *.ppm )
+Line9=CUT Images ( *.cut )
+Line10=RLA Images ( *.rla )
+Line11=Paintshop Images ( *.psp )
+Line12=PNG Images ( *.png )
+Line13=EPS Images ( *.eps )
+Line14=TIFF Images ( *.tif )

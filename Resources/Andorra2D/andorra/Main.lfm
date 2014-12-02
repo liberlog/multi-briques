@@ -1,0 +1,69 @@
+object MainForm: TMainForm
+  Left = 384
+  Height = 419
+  Top = 350
+  Width = 640
+  BorderIcons = [biSystemMenu, biMinimize]
+  BorderStyle = bsNone
+  Caption = 'Multi-Briques'
+  Font.Height = -12
+  Font.Name = 'MS Sans Serif'
+  KeyPreview = True
+  Menu = MainMenu
+  OnKeyDown = AKeyDown
+  OnKeyPress = AKeyPress
+  OnMouseDown = AMouseDown
+  OnMouseMove = AMouseMove
+  OnPaint = FormPaint
+  OnShow = FormShow
+  Position = poDefaultPosOnly
+  LCLVersion = '0.9.28.2'
+  object MainMenu: TMainMenu
+    left = 16
+    top = 16
+    object GameMenu: TMenuItem
+      Caption = '&Jeu'
+      object GameStart: TMenuItem
+        Caption = '&Recommencer'
+        ShortCut = 113
+        OnClick = GameStartClick
+      end
+      object GamePause: TMenuItem
+        Caption = '&Pause'
+        ShortCut = 114
+        OnClick = GamePauseClick
+      end
+      object N4: TMenuItem
+        Caption = '-'
+      end
+      object GameExit: TMenuItem
+        Caption = '&Quitter'
+        OnClick = GameExitClick
+      end
+    end
+    object OptionMenu: TMenuItem
+      Caption = '&Options'
+      object OptionFullScreen: TMenuItem
+        Caption = 'Plein écran'
+        ShortCut = 115
+      end
+      object N3: TMenuItem
+        Caption = '-'
+        GroupIndex = 1
+      end
+      object OptionSound: TMenuItem
+        Caption = 'son'
+        GroupIndex = 1
+      end
+      object N1: TMenuItem
+        Caption = '-'
+        GroupIndex = 1
+      end
+      object OptionShowFPS: TMenuItem
+        Caption = 'Monter FPS'
+        GroupIndex = 1
+        OnClick = OptionShowFPSClick
+      end
+    end
+  end
+end

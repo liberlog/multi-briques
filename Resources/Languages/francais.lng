@@ -1,0 +1,51 @@
+[Buttons]
+Copy=Copier
+[Checkboxes]
+Structure=Structurer
+Traduce=Traduire vers
+Backup=Backup
+Sub-directories=Sous-Répertoires
+[F_Licence]
+Accept=Accepter
+Refuse=Refuser
+License=Licence
+Language=Langage
+[Copy]
+Traduced to=traduit vers
+Copied to=copié vers
+COPYFILES_ERROR_DIRECTORY_CREATE=Erreur à la création du répertoire
+COPYFILES_CONFIRM=Demande de confirmation
+COPYFILES_CONFIRM_FILE_DELETE=Voulez-vous effacer le fichier
+COPYFILES_ERROR_FILE_DELETE=Impossible d'effacer le fichier
+COPYFILES_ERROR_CANT_APPEND=Impossible d'ajouter au fichier
+COPYFILES_ERROR_CANT_CREATE=Impossible de créer le fichier
+COPYFILES_ERROR_CANT_CHANGE_DATE=Impossible d'affecter la date au fichier
+COPYFILES_ERROR_CANT_READ=Impossible de lire le fichier
+COPYFILES_ERROR_PARTIAL_COPY_SEEK=Erreur à la copie partielle du fichier
+COPYFILES_ERROR_PARTIAL_COPY=Copie partielle du fichier
+COPYFILES_ERROR_CANT_COPY=Impossible de copier
+COPYFILES_ERROR_IS_FILE=Ne peut copier dans le fichier
+[Menu]
+Language=&Langue
+Help=&Aide
+Donate=&Faire un don
+About=A Propos
+[F_About]
+Comments=Copie de fichiers avec traduction d'images
+OK=OK
+[ImagesCombo]
+Line0=Images JPEG ( *.jpg )
+Line1=Images GIF ( *.gif )
+Line2=Images Bitmap ( *.bmp )
+Line3=Images Targa ( *.tga )
+Line4=Images Autodesk ( *.pic )
+Line5=Images SGI ( *.sgi )
+Line6=Images PCX ( *.pcx )
+Line7=Images PCD ( *.pcd )
+Line8=Images Portable MAP ( *.ppm )
+Line9=Images CUT ( *.cut )
+Line10=Images RLA ( *.rla )
+Line11=Images Paintshop ( *.psp )
+Line12=Images PNG ( *.png )
+Line13=Images EPS ( *.eps )
+Line14=Images TIFF ( *.tif )
